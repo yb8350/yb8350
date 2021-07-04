@@ -2,7 +2,6 @@
   <img src="https://cocky-hypatia-13b9e9.netlify.app/nametag.svg">
 </p>
 <br>
-<br>
 <h3 align="center">🖥 My Tech Stack 🔨</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
